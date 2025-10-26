@@ -7,6 +7,10 @@ Hodí se například pro seznamy souborů, jmen, čísel nebo argumentů.
 
 ---
 
+## Video YT:
+**Bash Arrays explained — Learn Linux scripting!**  
+[![YOUTUBE - Bash Arrays](https://img.youtube.com/vi/asHJ-xfuyno/0.jpg)](https://www.youtube.com/watch?v=asHJ-xfuyno)
+
 ## Definování polí
 
 Pole se definuje pomocí závorek `()` a hodnoty se oddělují mezerami.
@@ -175,9 +179,3 @@ bash pole.sh
 5. Pomocí smyčky `for` vypiš všechny záznamy.  
 6. Smaž třetí prvek.  
 7. Vytvoř asociativní pole `countries` (země → hlavní město) a vypiš všechny dvojice.
-
----
-
-## 🎥 Doporučené video (YT)
-**Bash Arrays explained — Learn Linux scripting!**  
-[![YOUTUBE - Bash Arrays](https://img.youtube.com/vi/RgZn-d8H6t8/0.jpg)](https://www.youtube.com/watch?v=RgZn-d8H6t8)

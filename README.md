@@ -11,6 +11,8 @@ Hodí se například pro seznamy souborů, jmen, čísel nebo argumentů.
 **Bash Arrays explained — Learn Linux scripting!**  
 [![YOUTUBE - Bash Arrays](https://img.youtube.com/vi/asHJ-xfuyno/0.jpg)](https://www.youtube.com/watch?v=asHJ-xfuyno)
 
+@see also: [https://www.youtube.com/results?search_query=bash+arrays](https://www.youtube.com/results?search_query=bash+arrays)
+
 ## Definování polí
 
 Pole se definuje pomocí závorek `()` a hodnoty se oddělují mezerami.

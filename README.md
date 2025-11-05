@@ -25,8 +25,8 @@ array=(hodnota1 hodnota2 hodnota3 ...)
 
 ### Výpis pole:
 ```bash
-echo ${array[@]}
-echo ${#array[@]} // výpis délky pole
+echo "${array[@]}"
+echo "${#array[@]}" // výpis délky pole
 ```
 
 ### Příklad

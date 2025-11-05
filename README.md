@@ -141,7 +141,7 @@ capitals=( ["CZ"]="Praha" ["SK"]="Bratislava" ["PL"]="Varšava" )
 
 ### Použití
 ```bash
-echo ${capitals["CZ"]}
+echo "${capitals["CZ"]}"
 ```
 
 ### Smyčka

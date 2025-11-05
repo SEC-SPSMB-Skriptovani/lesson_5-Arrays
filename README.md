@@ -100,9 +100,21 @@ done
 ```bash
 echo "Počet prvků: ${#fruits[@]}"
 echo "Indexy: ${!fruits[@]}"
+
+
+for i in "${!fruits[@]}"; do
+  echo "$i --> ${fruits[$i]}."
+done
 ```
 
 ---
+## Načtení souborů do pole
+```bash 
+files=(/home/student/scripts/*)
+for file in "${files[@]}"; do
+cat "$file"
+done
+```
 
 ## Odstranění prvků nebo celého pole
 
